@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">FitApp</string>
+
+    <string-array name="tipos">
+        <item>Corrida</item>
+        <item>Caminhada</item>
+        <item>Pedalada</item>
+        <item>Academia</item>
+        <item>Patinação</item>
+        <item>Remo</item>
+    </string-array>
+
+</resources>
