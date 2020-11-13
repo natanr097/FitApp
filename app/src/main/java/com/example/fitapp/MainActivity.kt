@@ -59,6 +59,18 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    //lstAtividades.setOnItemLongClickListener { parent, view, position, id ->
+
+       // Toast.makeText(this, "Item: " + .get(position) + ", removido", Toast.LENGTH_LONG)
+        //    .show()
+
+      //  .remove(.get(position))
+
+        //AtualizarLista()
+    //}
+
+
+
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_lista, menu)
         return super.onCreateOptionsMenu(menu)
