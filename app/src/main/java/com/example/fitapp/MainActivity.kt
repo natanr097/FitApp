@@ -57,19 +57,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        //lstAtividades.setOnItemLongClickListener { parent, view, position, id ->
-
-           // Toast.makeText(this, "Item: " + btnAdd.get(position) + ", removido", Toast.LENGTH_LONG)
-              //  .show()
-
-           // btnAdd.remove(btnAdd.get(position))
-
-            //AtualizarLista()
-
-
-        //}
-
-
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
